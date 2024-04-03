@@ -1,0 +1,8 @@
+C:\Users\Aleck\source\repos\SumMounth\SumMounth\bin\Debug\SumMounth.exe.config
+C:\Users\Aleck\source\repos\SumMounth\SumMounth\bin\Debug\SumMounth.exe
+C:\Users\Aleck\source\repos\SumMounth\SumMounth\bin\Debug\SumMounth.pdb
+C:\Users\Aleck\source\repos\SumMounth\SumMounth\obj\Debug\SumMounth.csproj.AssemblyReference.cache
+C:\Users\Aleck\source\repos\SumMounth\SumMounth\obj\Debug\SumMounth.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aleck\source\repos\SumMounth\SumMounth\obj\Debug\SumMounth.csproj.CoreCompileInputs.cache
+C:\Users\Aleck\source\repos\SumMounth\SumMounth\obj\Debug\SumMounth.exe
+C:\Users\Aleck\source\repos\SumMounth\SumMounth\obj\Debug\SumMounth.pdb
